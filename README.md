@@ -74,10 +74,7 @@ This repository contains code and notebooks for analyzing NYC MTA subway ridersh
 
 ## 4. Installation and Running the Project
 1. Clone the repository:
-2. Download the data
-## 🗂️ MTA Open Data Resources
-
-### 📊 Ridership & Performance
+2. Download the data:
 
 - **MTA Daily Ridership Data (Post-2020)**  
   Access daily ridership data for various MTA services from March 2020 to January 2025.  
@@ -99,8 +96,6 @@ This repository contains code and notebooks for analyzing NYC MTA subway ridersh
   Explore data on subway stations and their interconnected complexes.  
   👉 [View Dataset](https://catalog.data.gov/dataset/mta-subway-stations-and-complexes)
 
-### 🛠️ Service & Incident Data
-
 - **MTA Service Alerts Data (Post-2020)**  
   Stay informed with service alerts data for MTA services from 2020 onward.  
   👉 [View Dataset](https://catalog.data.gov/dataset/mta-service-alerts-beginning-april-2020)
@@ -117,8 +112,6 @@ This repository contains code and notebooks for analyzing NYC MTA subway ridersh
   Examine data on lost time for subway and bus services.  
   👉 [View Dataset](https://catalog.data.gov/dataset/mta-subway-and-bus-lost-time-accidents-beginning-2021)
 
-### 📈 Performance Metrics
-
 - **MTA Key Performance Indicators (2008–2021)**  
   Access key performance indicators for MTA services from 2008 to 2021.  
   👉 [View Dataset](https://catalog.data.gov/dataset/metropolitan-transportation-authority-mta-performance-indicators-per-agency-beginning-2008)
@@ -126,8 +119,6 @@ This repository contains code and notebooks for analyzing NYC MTA subway ridersh
 - **MTA Subway Customer Journey Metrics**  
   Explore customer journey metrics for the subway system.  
   👉 [View Dataset](https://data.ny.gov/Transportation/MTA-Subway-Customer-Journey-Focused-Metrics-Beginning/4apg-4kt9)
-
-### 🗣️ Customer Feedback
 
 - **MTA Customer Feedback Data (2014–2019)**  
   Review customer feedback data, including complaints and commendations.  
