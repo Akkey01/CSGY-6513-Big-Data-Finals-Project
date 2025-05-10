@@ -3,11 +3,6 @@
 ## Project: Urban Transit Reliability and Demand Forecasting
 by Jay Daftari(jd5829@nyu.edu), Akshat Mishra (am15111@nyu.edu) and Nikita Gupta(ng3230@nyu.edu).
 
-### Repository URL
-https://github.com/jd5829/CSGY6513-Urban-Transit-Project#running-the-project
-
----
-
 ## 1. Project Overview
 This repository contains code and notebooks for analyzing NYC MTA subway ridership, service alerts, accessibility, and forecasting future demand using big data techniques.
 
@@ -80,14 +75,16 @@ This repository contains code and notebooks for analyzing NYC MTA subway ridersh
 ## 4. Installation and Running the Project
 1. Clone the repository:
 2. Download the data
-3. Run both of the ipynb file,by setting the correct path of data. (Since data is too huge to upload it on github.)
+3. Run all of the ipynb file, by setting the correct path of data. (Since data is too huge to upload it on github.)
+4. Run the dashboard_streamlit.py to see the live dashboard
 
 ---
 
 ## 5. File Structure
 ```
-├── big-data-project.ipynb  #Analysis and Forecasting
+├── big-data-project.ipynb  # Analysis and Forecasting
 ├── ridership-analysis.ipynb # Analysis
+├── dashboard_streamlit.py # Live Dashboard
 └── README.md            # This file
 ```
 
