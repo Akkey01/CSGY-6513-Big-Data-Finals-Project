@@ -1,6 +1,4 @@
-# README.md
-
-## Project: Urban Transit Reliability and Demand Forecasting
+# Project: Urban Transit Reliability and Demand Forecasting
 by Jay Daftari(jd5829@nyu.edu), Akshat Mishra (am15111@nyu.edu) and Nikita Gupta(ng3230@nyu.edu).
 
 ## 1. Project Overview
